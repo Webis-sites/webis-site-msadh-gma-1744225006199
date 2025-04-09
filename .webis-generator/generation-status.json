@@ -1,11 +1,24 @@
 {
-  "timestamp": "2025-04-09T18:57:11.436Z",
+  "timestamp": "2025-04-09T18:58:11.180Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 2,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "NavigationHeader",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL navigation header with logo and menu links"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section with restaurant branding, headline, and booking CTA"
+    }
+  ],
   "repoName": "webis-site-msadh-gma-1744225006199"
 }
